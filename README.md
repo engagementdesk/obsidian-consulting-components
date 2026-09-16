@@ -83,6 +83,8 @@ These three components are part of a larger vault that adds a proposal clause li
 tracking, a pipeline, work-in-progress and receivables views, a weekly close procedure and a worked
 example engagement. It is a paid download.
 
+The full vault: <https://engagementdesk.gumroad.com/l/ablzvw>
+
 The components in this repository are complete and usable on their own, under MIT, with no
 restrictions and no upsell required.
 
